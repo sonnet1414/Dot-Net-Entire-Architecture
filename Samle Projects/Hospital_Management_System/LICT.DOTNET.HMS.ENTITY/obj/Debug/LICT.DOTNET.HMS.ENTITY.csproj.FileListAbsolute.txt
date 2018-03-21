@@ -1,0 +1,5 @@
+C:\Users\Amit Hasan\Desktop\entire structure\Hospital_Management_System\LICT.DOTNET.HMS.ENTITY\bin\Debug\LICT.DOTNET.HMS.ENTITY.dll
+C:\Users\Amit Hasan\Desktop\entire structure\Hospital_Management_System\LICT.DOTNET.HMS.ENTITY\bin\Debug\LICT.DOTNET.HMS.ENTITY.pdb
+C:\Users\Amit Hasan\Desktop\entire structure\Hospital_Management_System\LICT.DOTNET.HMS.ENTITY\obj\Debug\LICT.DOTNET.HMS.ENTITY.csprojResolveAssemblyReference.cache
+C:\Users\Amit Hasan\Desktop\entire structure\Hospital_Management_System\LICT.DOTNET.HMS.ENTITY\obj\Debug\LICT.DOTNET.HMS.ENTITY.dll
+C:\Users\Amit Hasan\Desktop\entire structure\Hospital_Management_System\LICT.DOTNET.HMS.ENTITY\obj\Debug\LICT.DOTNET.HMS.ENTITY.pdb
